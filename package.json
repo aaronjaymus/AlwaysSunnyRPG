@@ -1,0 +1,34 @@
+{
+  "name": "itsalwayssunnyrpg",
+  "version": "0.1.0",
+  "description": "Simple RPG game featuring the characters from It's Always Sunny in Philadelphia.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronjaymus/AlwaysSunnyRPG.git"
+  },
+  "keywords": [
+    "It's",
+    "Always",
+    "Sunny",
+    "IASIP",
+    "Express",
+    "Node",
+    "JQuery"
+  ],
+  "author": "James McHale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronjaymus/AlwaysSunnyRPG/issues"
+  },
+  "homepage": "https://github.com/aaronjaymus/AlwaysSunnyRPG#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
